@@ -2,13 +2,13 @@ Gameplan
 ~~~~~~~~
 
 skapa webbserver
-- serva statisk mapp med html+css+js
+x serva statisk mapp med html+css+js
 - sätta upp socket.io
 
 skapa index.html
-- ruta med chatmeddelanden
-- textruta för att skriva meddelande
+x ruta med chatmeddelanden
+x textruta för att skriva meddelande
 
 skapa enkel css
 
-skapa chat.js
+skapa chat.js som använder socket.io
